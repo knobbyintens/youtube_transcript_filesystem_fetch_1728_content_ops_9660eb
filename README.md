@@ -16,6 +16,6 @@ the digest pipeline.
 
 The canonical keyword taxonomy for classification is published here:
 
-https://gist.githubusercontent.com/knobbyintens/4a70e2786c4a904a94669d0911d38474/raw/content-ops-taxonomy-9660eb.json
+https://gist.githubusercontent.com/knobbyintens/4fbdc368c5931a21f5f3222d6c378848/raw/content-ops-taxonomy-9660eb.json
 
 Always use that published taxonomy; do not invent category ids.
