@@ -1,0 +1,11 @@
+[00:00:03] Host: Welcome to Creator Ops Live. I'm Dana Whitfield. Today we're going behind the scenes of the data platform rebuild with Sam Ortiz, platform engineering lead at Northwind Digital.
+[00:00:18] Sam Ortiz: Thanks Dana. The old warehouse was held together with cron jobs and hope.
+[00:00:27] Host: Why rebuild now?
+[00:00:33] Sam Ortiz: Our machine learning team needed a data platform that could serve training data and dashboards from the same copy of the truth. We also wanted to retire about sixty scripts that used to copy tables overnight.
+[00:01:08] Host: What does the new stack look like?
+[00:01:14] Sam Ortiz: We built it around a streaming ingestion layer, a columnar store, and a semantic model layer that the analytics team owns. The AI team trains models directly on the curated tables now, instead of exporting snapshots. Automation runs the quality checks after every load, and alerts go to the platform channel.
+[00:02:02] Host: What did you learn?
+[00:02:08] Sam Ortiz: Two things. First, a data platform is a product, not a project. Second, the model registry matters more than the pipeline code, because a pipeline that cannot be reproduced is just a story. We cut refresh time from nine hours to under forty minutes, and the machine learning team ships a model update twice as often now.
+[00:03:00] Host: What's on the roadmap next?
+[00:03:06] Sam Ortiz: More automation around schema changes and a shared feature store. Honestly the team just wants to keep shipping and watch the dashboards.
+[00:03:28] Host: That's Sam Ortiz on the data platform rebuild. Thanks for listening.

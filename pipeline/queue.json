@@ -1,0 +1,61 @@
+{
+  "batch_id": "OPS-2026-11-12",
+  "generated_at": "2026-11-12T00:30:00Z",
+  "episodes": [
+    {
+      "episode_id": "EP-1042",
+      "title": "Inside AI-Assisted Customer Support",
+      "series": "flagship",
+      "duration_sec": 2785,
+      "priority": "high",
+      "status": "pending",
+      "requested_by": "marketing",
+      "video_url": "https://www.youtube.com/watch?v=Kx7d9mZqT2w",
+      "transcript_path": "transcripts/EP-1042.txt"
+    },
+    {
+      "episode_id": "EP-1043",
+      "title": "Building a Talent Pipeline",
+      "series": "community",
+      "duration_sec": 1930,
+      "priority": "medium",
+      "status": "pending",
+      "requested_by": "people-team",
+      "video_url": "https://www.youtube.com/watch?v=Np3v8rLwQ1s",
+      "transcript_path": "transcripts/EP-1043.txt"
+    },
+    {
+      "episode_id": "EP-1044",
+      "title": "Launch Retro: The Nova Release",
+      "series": "flagship",
+      "duration_sec": 2540,
+      "priority": "high",
+      "status": "pending",
+      "requested_by": "product",
+      "video_url": "https://www.youtube.com/watch?v=Qh5t2bYxR9m",
+      "transcript_path": "transcripts/EP-1044.txt"
+    },
+    {
+      "episode_id": "EP-1045",
+      "title": "Automation Deep Dive: Data Platform at Scale",
+      "series": "deep-dive",
+      "duration_sec": 3120,
+      "priority": "high",
+      "status": "archived",
+      "requested_by": "engineering",
+      "video_url": "https://www.youtube.com/watch?v=Tz6k4mHnD2p",
+      "transcript_path": "transcripts/EP-1045.txt"
+    },
+    {
+      "episode_id": "EP-1046",
+      "title": "The Data Platform Rebuild",
+      "series": "community",
+      "duration_sec": 2260,
+      "priority": "high",
+      "status": "pending",
+      "requested_by": "engineering",
+      "video_url": "https://www.youtube.com/watch?v=Wc8j5sVbX3r",
+      "transcript_path": "transcripts/EP-1046.txt"
+    }
+  ]
+}

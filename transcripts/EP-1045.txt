@@ -1,0 +1,9 @@
+[00:00:04] Host: Welcome back to Creator Ops Live. I'm Dana Whitfield, and this is our automation deep dive. Today we're revisiting our conversation with Lena Park about running a data platform at scale.
+[00:00:22] Lena Park: Thanks Dana. Scale is mostly about removing manual steps.
+[00:00:30] Host: What breaks first?
+[00:00:36] Lena Park: The handoffs. Once your data platform serves twenty teams, every manual approval becomes a queue. We automated the release gates, the schema review, and the model deployment checks so the platform team can spend time on reliability instead of tickets.
+[00:01:24] Host: How do you keep quality?
+[00:01:30] Lena Park: Contract tests on every dataset, lineage tracking, and a machine learning review board for new models. The AI council meets weekly and reviews exceptions. Automation doesn't replace judgement; it just makes the judgement cheap to apply.
+[00:02:12] Host: Final thought?
+[00:02:18] Lena Park: Treat the data platform like a utility. If it's boring and predictable, you're doing it right.
+[00:02:36] Host: That's Lena Park. This archived episode originally aired earlier this season. Thanks for listening.

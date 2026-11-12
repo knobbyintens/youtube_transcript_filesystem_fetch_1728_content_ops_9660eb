@@ -1,0 +1,12 @@
+[00:00:05] Host: Welcome back to Creator Ops Live. I'm Dana Whitfield, and today we're talking about what happens when AI meets the front line of customer support. My guest is Maya Chen, Head of Customer Support at Northwind Digital. Maya, thanks for joining us.
+[00:00:21] Maya Chen: Thanks, Dana. It's good to be here.
+[00:00:27] Host: Your support team handles something like forty thousand tickets a quarter. Where did AI actually help?
+[00:00:38] Maya Chen: We started by putting a chatbot in front of tier-one customer support requests. The chatbot resolves the simple stuff, like password resets and order status, and it hands anything complicated to a human agent. Our customer service reps now spend their time on the messy cases instead of copying order numbers into a ticket.
+[00:01:10] Host: What surprised you?
+[00:01:15] Maya Chen: The surprise was how much the support team needed new skills. We wrote escalation rules, we rewrote our help desk macros, and we trained every agent on how to review a chatbot conversation before it closes a ticket. If a customer support conversation goes sideways, the agent has to take over within two minutes. That two-minute rule was the single biggest improvement to customer service quality we made this year.
+[00:02:00] Host: What would you tell a team that's just starting?
+[00:02:06] Maya Chen: Start with one queue, not the whole customer support operation. Measure the ticket deflection rate weekly, and let the support team own the escalation policy. If you let a vendor own the help desk logic, your agents will not trust the chatbot.
+[00:02:44] Host: This episode is presented by Acme Cloud. Acme Cloud provides secure infrastructure for teams building customer-facing chat products, and their platform made our own live Q&A run smoothly today.
+[00:03:02] Host: What's next for Northwind?
+[00:03:08] Maya Chen: We're expanding the chatbot to the billing queue next quarter. One action item for the team listening: draft a prompt-triage playbook for tier-one agents and share it with your support team by the end of the month.
+[00:03:35] Host: That's Maya Chen from Northwind Digital. Thanks for listening to Creator Ops Live.

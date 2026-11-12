@@ -1,0 +1,11 @@
+[00:00:04] Host: This is Creator Ops Live, I'm Dana Whitfield. Today is the launch retro for the Nova release, and I'm joined by Priya Raman, senior product manager on the Nova team.
+[00:00:20] Priya Raman: Hi Dana. The Nova launch was our biggest release of the year.
+[00:00:28] Host: Walk us through the timeline.
+[00:00:34] Priya Raman: We shipped the beta in August, ran a feature flag for two weeks, and then moved the launch to general availability in early October. The product roadmap had the release in Q4, so we were slightly ahead of plan. The biggest feature was the shared workspace, and the second feature was the new permissions model.
+[00:01:20] Host: What went wrong?
+[00:01:26] Priya Raman: The launch itself was clean, but we underestimated the privacy review. Our legal review of the data-retention policy came late, and the compliance team flagged two workflows that needed changes. We ended up delaying a release candidate by nine days while the regulatory paperwork caught up. Next time the privacy review starts two sprints before the beta, not after.
+[00:02:22] Host: How did customers react?
+[00:02:28] Priya Raman: Adoption of the shared workspace feature is strong. We saw a 31 percent lift in weekly active teams. The roadmap for the next release already includes the permissions follow-up and a reporting feature.
+[00:02:52] Host: Anything you'd change about the process?
+[00:03:00] Priya Raman: Yes. Action item: schedule the legal review of the new data-retention policy with the compliance team before the next release, and put the privacy review on the launch checklist so it can't slip again.
+[00:03:30] Host: That's Priya Raman on the Nova launch retro. Thanks for listening.

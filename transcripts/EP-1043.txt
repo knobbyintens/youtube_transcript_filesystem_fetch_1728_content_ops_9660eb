@@ -1,0 +1,9 @@
+[00:00:06] Host: Welcome to Creator Ops Live, I'm Dana Whitfield. Today we're talking about building a talent pipeline with Derek Wu, head of recruiting at Northwind Digital.
+[00:00:22] Derek Wu: Thanks Dana. Hiring is a pipeline problem, not an event.
+[00:00:31] Host: Where do teams get it wrong?
+[00:00:38] Derek Wu: Most teams treat recruiting like a series of one-off interviews. Our talent team maps candidates twelve months out, and we keep a warm bench for the roles we know we'll hire. Onboarding starts the day the offer is signed, not the first day of work.
+[00:01:18] Host: How do you measure it?
+[00:01:24] Derek Wu: Time to fill is the obvious metric, but we watch quality of hire and offer acceptance rate too. Every interview panel uses the same scorecard, and every hiring manager gets trained twice a year.
+[00:02:02] Host: What about onboarding?
+[00:02:08] Derek Wu: Onboarding is where the talent pipeline either proves itself or falls apart. We assign a buddy for the first ninety days, and managers check in at week one, four, and twelve. Our new hire retention is up nine points since we started.
+[00:02:44] Host: That's Derek Wu on building a talent pipeline. Thanks for listening.
